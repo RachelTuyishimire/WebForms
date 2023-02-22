@@ -1,0 +1,26 @@
+.table{
+    padding: 50px;
+    align-items: center;
+    border-collapse: collapse;
+    border: 2px black;
+    border-style: solid black;
+    margin: 0 20%;
+}
+
+   .table tr{
+    text-align: center;
+    text-decoration:none;
+    font-size: medium;
+   }
+    th, td{
+        width: 150px;
+        text-align: center;
+        border: 3px solid black;
+        padding: 5px;
+    }
+    text{
+        color:rgb(8, 5, 0)
+    }
+    #h1{
+        text-align: center;
+    }
